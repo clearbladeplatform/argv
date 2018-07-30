@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,argv",
+    "logging_enabled": "false",
+    "name": "argvSmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "argvSmokeTest.js"
+}
